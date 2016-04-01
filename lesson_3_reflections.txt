@@ -21,9 +21,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    It depends what the alternative is, but Git/Github provides a great way to share changes and documment the discussions through the pull requests. It seems like many people can look at the changes and comment, until they are comfortable enough with the changes to accept the pull request.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    The main benefits I see of using separate branches are that you can isolate your work from work of other people (even from yourself, if you are working on different things at once), you can generate pull requests and document the dicussion around your code with other users before merging your changes.
